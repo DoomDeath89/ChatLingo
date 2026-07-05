@@ -1,0 +1,9 @@
+## Interface: 11508
+## Title: ChatLingo
+## Notes: Traduce automaticamente el chat al espanol
+## Author: ChatLingo
+## Version: 1.0
+## SavedVariables: ChatLingoDB
+
+ChatLingo.lua
+ChatLingoConfig.lua
